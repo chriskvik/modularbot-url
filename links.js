@@ -5,7 +5,7 @@
    Usg  : This module is created for usage with ModularBot https://github.com/Xstasy/modular-bot
    Help : Read readme for installation instructions.
 */
-
+var utf8 = require('utf8');
 
 module.exports = {
     Module: function(Bot, Module) {
@@ -48,10 +48,10 @@ module.exports = {
                             Bot.Send(message.to, 'Link | ' + url);
                         }
                         if(siteinfo.description) {
-                            Bot.Send(message.to, siteinfo.description);
+                            Bot.Send(message.to, utf8.decode(siteinfo.description));
                         }
                         else {
-                            Bot.Send(message.to, siteinfo.title);
+                            Bot.Send(message.to, utf8.decode(siteinfo.title));
                         }
                     }
                 })
