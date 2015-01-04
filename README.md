@@ -3,7 +3,7 @@ Modularbot-URL
 
 Simple url-parsing module for your [ModularBot](https://github.com/Xstasy/modular-bot) installation. This module looks for url's posted in the channel and cleanly formats them to an appropiate format. The link with an page-title will then be posted to the channel.
 
-### Matching regex's
+### Matching URL-formats
  - http://www.google.no
  - http://google.no
  - www.google.no
