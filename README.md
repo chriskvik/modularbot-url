@@ -22,7 +22,7 @@ Simple url-parsing module for your [ModularBot](https://github.com/Xstasy/modula
 <ModularBot> Find breaking news, world news and multimedia on Africa...
 ```
 ### Installation
-- Issue the following commands in npm.
+
 ```
 1. Install dependencies :
 
