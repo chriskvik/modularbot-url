@@ -1,7 +1,7 @@
 Modularbot-URL
 ==============
 
-Simple url-parsing module for your [ModularBot](https://github.com/Xstasy/modular-bot) installation. This module looks for url's posted in the channel, cleanly formats them to an appropiate format, and posts the page-title in the channel.
+Simple url-parsing module for your [ModularBot](https://github.com/Xstasy/modular-bot) installation. This module looks for url's posted in the channel and cleanly formats them to an appropiate format. The link with an page-title will then be posted to the channel.
 
 **Matching regex's**
  - http://www.google.no
