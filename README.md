@@ -13,14 +13,13 @@ Simple url-parsing module for your [ModularBot](https://github.com/Xstasy/modula
 ###### With appropiate formated link
 ```
 <User> http://www.nytimes.com/pages/world/index.html
-<ModularBot> Find breaking news, world news and multimedia on Africa, Canada, Mexico, South and Central America, Asia,                    Europe, the Middle East and Iraq.
+<ModularBot> Find breaking news, world news and multimedia on Africa...
 ```
 ###### With lazy linking
 ```
 <User> nytimes.com/pages/world/index.html
 <ModularBot> Link | http://nytimes.com/pages/world/index.html
-<ModularBot> Find breaking news, world news and multimedia on Africa, Canada, Mexico, South and Central America, Asia,       
-             Europe, the Middle East and Iraq.
+<ModularBot> Find breaking news, world news and multimedia on Africa...
 ```
 ### Installation
 - Issue the following commands in npm.
