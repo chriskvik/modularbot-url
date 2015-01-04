@@ -1,5 +1,5 @@
 /* Author: Christian Kråkevik
-   Mail : christian(a)gmail.com
+   Mail : christian(a)chk.no
    Url  : https://github.com/iNzzane/modularbot-url
    Desc : Simple URL-parser for parsing site titles, based on posted url's.
    Usg  : This module is created for usage with ModularBot https://github.com/Xstasy/modular-bot
