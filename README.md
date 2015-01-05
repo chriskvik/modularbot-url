@@ -26,7 +26,7 @@ Simple url-parsing module for your [ModularBot](https://github.com/Xstasy/modula
 ```
 1. Install dependencies :
    npm install lets-get-meta
-   npm install utf8
+   npm install cherioo
 2. Copy the Links.js into your /modules directory.
 3. Issue the reload command, either from CLI or channel (.reload).
 ```
